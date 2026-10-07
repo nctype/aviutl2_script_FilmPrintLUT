@@ -16,7 +16,7 @@ LUT ファイルを選び、強度を調整するだけで使用できます。�
 
 ## インストール方法
 
-1. `FilmPrintLUT\\\_v1.2.0.au2pkg.zip` を **解凍せず、AviUtl2 のプレビュー画面へ直接ドラッグ＆ドロップ** します。
+1. `FilmPrintLUT_v1.2.0.au2pkg.zip` を **解凍せず、AviUtl2 のプレビュー画面へ直接ドラッグ＆ドロップ** します。
 2. 表示された内容を確認してインストールします。再起動を求められた場合は、AviUtl2 を再起動してください。
 3. 対象のオブジェクトへ効果を追加し、**色調整 → FilmPrintLUT** を選択します。
 
@@ -24,7 +24,7 @@ LUT ファイルを選び、強度を調整するだけで使用できます。�
 
 手動でインストールする場合は、パッケージ内の `Script` と `Language` を対応するフォルダーへ配置してください。`FilmPrintLUT.anm2` と `FilmPrintLUTCube.mod2` は同じフォルダーに置く必要があります。
 
-インストール後、同梱の3種類の LUT は `ProgramData\\aviutl2\\Script\\FilmPrintLUT\\LUTs` にあります。
+インストール後、同梱の3種類の LUT は `ProgramData\aviutl2\Script\FilmPrintLUT\LUTs` にあります。
 
 ## 基本操作
 
@@ -59,7 +59,7 @@ LUT ファイルを選び、強度を調整するだけで使用できます。�
 
 ## 安装方法
 
-1. 将 `FilmPrintLUT\\\_v1.2.0.au2pkg.zip` **直接拖入 AviUtl2 的预览画面，无需解压**。
+1. 将 `FilmPrintLUT_v1.2.0.au2pkg.zip` **直接拖入 AviUtl2 的预览画面，无需解压**。
 2. 确认安装内容并完成安装。如果提示重启，请重新启动 AviUtl2。
 3. 为目标对象添加效果，在 **色調整 → FilmPrintLUT** 中选择本脚本。
 
@@ -67,7 +67,7 @@ LUT ファイルを選び、強度を調整するだけで使用できます。�
 
 如果手动安装，请将包内的 `Script` 和 `Language` 放入对应目录。`FilmPrintLUT.anm2` 与 `FilmPrintLUTCube.mod2` 必须放在同一个文件夹。
 
-安装后，三个附赠 LUT 在 `ProgramData\\aviutl2\\Script\\FilmPrintLUT\\LUTs` 中。
+安装后，三个附赠 LUT 在 `ProgramData\aviutl2\Script\FilmPrintLUT\LUTs` 中。
 
 ## 基本操作
 
@@ -102,7 +102,7 @@ Three original LUTs are included, but I recommend using your own LUTs.
 
 ## Installation
 
-1. Drag `FilmPrintLUT\\\_v1.2.0.au2pkg.zip` **directly onto the AviUtl2 preview window without extracting it**.
+1. Drag `FilmPrintLUT_v1.2.0.au2pkg.zip` **directly onto the AviUtl2 preview window without extracting it**.
 2. Review the package contents and complete the installation. Restart AviUtl2 if prompted.
 3. Add an effect to the target object and select **Color adjustment (色調整) → FilmPrintLUT**.
 
@@ -110,7 +110,7 @@ The package includes the script, LUT loading module, three LUTs, and English and
 
 For manual installation, place the package's `Script` and `Language` contents in the corresponding directories. Keep `FilmPrintLUT.anm2` and `FilmPrintLUTCube.mod2` in the same folder.
 
-After installation, the three included LUTs are located in `ProgramData\\aviutl2\\Script\\FilmPrintLUT\\LUTs`.
+After installation, the three included LUTs are located in `ProgramData\aviutl2\Script\FilmPrintLUT\LUTs`.
 
 ## Basic Usage
 

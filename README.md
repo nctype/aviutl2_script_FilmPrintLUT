@@ -2,6 +2,10 @@
 
 <img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/fef79eb8-5c67-42fa-88ba-a2b53579fb7c" />
 
+<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/19933925-ac54-4f65-b524-bde1b1554bfd" />
+
+<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/bf848979-f116-4d18-ad51-ff47ef1dfba9" />
+
 <details open>
 <summary>日本語　▲ 🌐 Switch Language</summary>
 

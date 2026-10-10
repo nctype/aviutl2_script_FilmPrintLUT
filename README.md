@@ -6,6 +6,10 @@
 
 ![FilmPrintLUT Preview 3](https://github.com/user-attachments/assets/bf848979-f116-4d18-ad51-ff47ef1dfba9)
 
+▶️ [紹介動画(ニコニコ)](https://www.nicovideo.jp/watch/sm46909510)
+
+▶️ [紹介動画(Twitter)](https://x.com/nyaarara/status/2108898421994307931)
+
 <details open>
 <summary>日本語　▲ 🌐 Switch Language</summary>
 
